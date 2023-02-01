@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64884533523",
+    "project_id": "testemultdice",
+    "storage_bucket": "testemultdice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64884533523:android:b2191f39d4fc5fcd56d2e6",
+        "android_client_info": {
+          "package_name": "com.example.teste_multijoagdor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64884533523-jpl3v4n3f46onfv3pp3brddknkig3v8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2A0D1pv7QyDJSTKTYwg3pHmjdrTD0nRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64884533523-jpl3v4n3f46onfv3pp3brddknkig3v8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
